@@ -1,5 +1,11 @@
 # Projeto-Ada-Redes
 Projeto de redes do curso de Devops da Ada
+Alunos: 
+*Edgar Brabo
+*Monique Emídio
+*Carlos Alexander
+*Gandara
+*Marco Tulio
 
 ## DESENVOLVIMENTO
 ## Exercício proposto
