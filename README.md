@@ -1,8 +1,7 @@
 # Projeto-Ada-Redes
 Projeto de redes do curso de Devops da Ada
 
-## O que foi desenvolvido
-
+## DESENVOLVIMENTO
 ## Exercício proposto
 
 ( Realizar a criação de 2 redes diferentes e realizar a comunicação via ICMP entre uma e outra.
